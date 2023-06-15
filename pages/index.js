@@ -13,8 +13,7 @@ export default function Home() {
       <main>
         <Header title="歡迎來到我的頁面app!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
+          阿羅哈!五木可樂果炒麵</p>
       </main>
 
       <Footer />
